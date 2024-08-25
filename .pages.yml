@@ -3,7 +3,7 @@ media:
   output: media
 
 content:
-  - name: posts
-    label: Posts
-    path: /index.md
+  - name: pagine
+    label: Pagine
+    path: src
     type: collection
