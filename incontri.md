@@ -18,6 +18,9 @@ Piazza Cavour, dal 24 agosto all'8 settembre
 
 [link del sito](https://fieralibrocomo.it/); [calendario](https://fieralibrocomo.it/programma/)
 
+::: info Chi organizza la manifestazione
+L’Associazione Manifestazioni Librarie in collaborazione con gli Editori del Lago di Como e Associati e Confesercenti.
+:::
 ***
 
 

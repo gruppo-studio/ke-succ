@@ -10,9 +10,12 @@ head:
     - name: keywords
       content: super duper SEO
 ---
-
+***
 # 🎉 Feste
+***
+
 ### Piazzo delle ame
+***
 
 <img src="./media/piazzo delle ame.jpg" width="200">
 

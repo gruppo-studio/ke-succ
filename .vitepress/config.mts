@@ -32,10 +32,15 @@ export default defineConfig({
         timeStyle: 'medium'
       }
     },
-    // bisogna committare prima!
+    // PS per vederlo, bisogna committare prima!
     
     search: {
       provider: 'local'
+    },
+    
+    outline: {
+      level: [2, 4],  // Include headings from <h2> to <h4>
+      label: 'Indice della pagina'
     },
 
     // Default di vitepress:
