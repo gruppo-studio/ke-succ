@@ -5,5 +5,5 @@ media:
 content:
   - name: posts
     label: Posts
-    path: ./
+    path: src
     type: collection
