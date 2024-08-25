@@ -3,7 +3,7 @@ media:
   output: media
 
 content:
-  - name: posts
+  - name: pagine
     label: Pagine
     path: ke-succ
     type: collection
