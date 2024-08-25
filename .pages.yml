@@ -5,5 +5,5 @@ media:
 content:
   - name: posts
     label: Pagine
-    path: 
+    path: ke-succ
     type: collection
