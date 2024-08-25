@@ -5,5 +5,5 @@ media:
 content:
   - name: pagine
     label: Pagine
-    path: ./
+    path: /
     type: collection
