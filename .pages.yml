@@ -1,0 +1,10 @@
+media:
+  input: media
+  output: media
+
+content:
+  - name: pagine
+    label: Pagine
+    path: /
+    type: collection
+    extensions: ".md"
