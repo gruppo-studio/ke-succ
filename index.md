@@ -7,17 +7,17 @@ hero:
   text: "Che succede in questi giorni a Como?"
   tagline:  "Un catalogo curato dei momenti di incontro e formazione, a volte sconosciuti, a cui si può partecipare nella nostra città."
   image:
-    src: /media/wasteland.png
+    src: ./media/wasteland.png
   actions:
     - theme: brand
       text: Be.. che succede?
-      link: /feste
+      link: ./feste
     - theme: alt
       text: già successo
-      link: /archivio
+      link: ./archivio
     - theme: alt
       text: spiagge
-      link: /spiagge      
+      link: ./spiagge      
 
 features:
   - title: Feste
