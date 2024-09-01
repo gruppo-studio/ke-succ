@@ -56,7 +56,7 @@ Cinelandia, Uci Cinemas
 
 Da settembre a maggio, ogni due settimane, il venerdì pomeriggio. Presentazione e commento a cura del critico Alessandro Ronchi.
 
-[pagina instagram](instagram.com/cineforumliceovolta) con film proiettati e aggiornamenti.
+[pagina instagram](https://www.instagram.com/cineforumliceovolta) con film proiettati e aggiornamenti.
 
 ***
 
