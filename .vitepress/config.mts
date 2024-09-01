@@ -32,7 +32,7 @@ export default defineConfig({
         timeStyle: 'medium'
       }
     },
-    // PS per vederlo, bisogna committare prima!
+    // PS per vederlo, bisogna committare prima! (visibile solo una volta deployed)
     
     search: {
       provider: 'local'
@@ -54,11 +54,35 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Che succede?',
+        collapsed: false,
         items: [
           { text: 'Feste', link: '/feste' },
           { text: 'Incontri e dibattiti', link: '/incontri' },
           { text: 'Film, teatro e spettacoli', link: '/spettacoli' }
         ]
+      },
+      {
+        text: 'Avevo voglia di...',
+        collapsed: false,
+        items: [
+          { text: '🎬 Cinema', link: '/cinema' },
+          { text: '🎭 Teatro e spettacoli', link: '/spettacoli' },
+          { text: '🎵 Musica', link: '/musica' },
+          { text: '📚 Biblioteche / librerie', link: '/leggere' },
+          { text: '📖 Aule studio', link: '/territorio' },
+          { text: '🍸 Bar / disco', link: '/uscire' },
+          { text: '🏖️ Spiagge', link: '/spiagge' },
+          { text: '⛰️ Montagna / natura', link: '/territorio' },
+          { text: '🗣️ Assemblee politiche', link: '/territorio' },
+        ]
+      },
+      {
+        text: 'Altri strumenti',
+        collapsed: false,
+        items: [
+          { text: '📰 Giornali / Informazione', link: '/cinema' }
+        ]
+
       }
     ],
 
