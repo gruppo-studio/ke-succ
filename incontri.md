@@ -1,6 +1,5 @@
 ---
 title: Incontri e dibattiti
-titleTemplate: Vite & Vue powered static site generator
 description: VitePress
 head:
   - - meta

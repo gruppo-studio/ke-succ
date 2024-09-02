@@ -68,22 +68,22 @@ export default defineConfig({
         text: 'Avevo voglia di...',
         collapsed: false,
         items: [
-          { text: '🎬 Cinema', link: '/cinema' },
-          { text: '🎭 Teatro e spettacoli', link: '/spettacoli' },
-          { text: '🎵 Musica', link: '/musica' },
-          { text: '📚 Biblioteche / librerie', link: '/leggere' },
-          { text: '📖 Aule studio', link: '/territorio' },
-          { text: '🍸 Bar / disco', link: '/uscire' },
-          { text: '🏖️ Spiagge', link: '/spiagge' },
-          { text: '⛰️ Montagna / natura', link: '/territorio' },
-          { text: '🗣️ Assemblee politiche', link: '/territorio' },
+          { text: '🎬 Cinema', link: '/schede/cinema' },
+          { text: '🎭 Teatro e spettacoli', link: '/schede/teatro' },
+          { text: '🎵 Musica', link: '/schede/musica' },
+          { text: '📚 Biblioteche / librerie', link: '/schede/leggere' },
+          { text: '📖 Aule studio', link: '/schede/studiare' },
+          { text: '🍸 Bar / disco', link: '/schede/uscire' },
+          { text: '🏖️ Spiagge', link: '/schede/spiagge' },
+          { text: '⛰️ Montagna / natura', link: '/schede/territorio' },
+          { text: '🗣️ Assemblee politiche', link: '/schede/politica' },
         ]
       },
       {
         text: 'Altri strumenti',
         collapsed: false,
         items: [
-          { text: '📰 Giornali / Informazione', link: '/cinema' }
+          { text: '📰 Giornali / Informazione', link: 'schede/giornali' }
         ]
 
       }

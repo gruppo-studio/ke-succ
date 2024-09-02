@@ -16,8 +16,8 @@ hero:
       text: ⌛ Già successo
       link: /archivio
     - theme: alt
-      text: 🏖️ Spiagge
-      link: /spiagge
+      text: 🔍 Avevo voglia di...
+      link: /schede
 
 features:
   - title:
