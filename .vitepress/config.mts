@@ -20,6 +20,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
 
     // Aggiunti:
+    logo: '/favicon.ico',
+
 
     docFooter: {
       prev: 'Pagina precedente',
