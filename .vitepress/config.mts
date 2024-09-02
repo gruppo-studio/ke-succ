@@ -6,6 +6,7 @@ export default defineConfig({
   description: "Che succede in questi giorni a Como? Un catalogo curato dei momenti di incontro e formazione, a volte sconosciuti, a cui si può partecipare nella nostra città.",
   cleanUrls: true,
   lastUpdated: true,
+  lang: 'it-IT',
   markdown: {
     container: {
       tipLabel: 'Consiglio',
