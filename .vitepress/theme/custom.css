@@ -1,9 +1,15 @@
 /* .vitepress/theme/custom.css */
 :root {
+  --vp-c-default-1: var(--vp-c-gray-1);
+  --vp-c-default-2: var(--vp-c-gray-2);
+  --vp-c-default-3: var(--vp-c-gray-1);
+  --vp-c-default-soft: var(--vp-c-gray-1);
+
   --vp-c-brand-1: var(--vp-c-green-1);
   --vp-c-brand-2: var(--vp-c-green-2);
   --vp-c-brand-3: var(--vp-c-green-3);
   }
+  
 
 /**
  * Colors: Background
@@ -21,15 +27,40 @@
  * -------------------------------------------------------------------------- */
 
  :root {
-  --vp-c-bg: #ffffff;
-  --vp-c-bg-alt: #f6f6f7;
-  --vp-c-bg-elv: #ffffff;
-  --vp-c-bg-soft: #f6f6f7;
+  --vp-c-bg: #f2ecf4;
+  --vp-c-bg-alt: #ebddff;
+  --vp-c-bg-elv: #f2ecf4;
+  --vp-c-bg-soft: #ebddff;
 }
 
 .dark {
-  --vp-c-bg: #1b1b1f;
-  --vp-c-bg-alt: #161618;
-  --vp-c-bg-elv: #202127;
-  --vp-c-bg-soft: #202127;
+  --vp-c-bg: #211f24;
+  --vp-c-bg-alt: #151218;
+  --vp-c-bg-elv: #3b383e;
+  --vp-c-bg-soft: #3b383e;
+}
+
+/**
+ * Colors: Borders
+ *
+ * - `divider`: This is used for separators. This is used to divide sections
+ *   within the same components, such as having separator on "h2" heading.
+ *
+ * - `border`: This is designed for borders on interactive components.
+ *   For example this should be used for a button outline.
+ *
+ * - `gutter`: This is used to divide components in the page. For example
+ *   the header and the lest of the page.
+ * -------------------------------------------------------------------------- */
+
+ :root {
+  --vp-c-border: #c2c2c4;
+  --vp-c-divider: #aeaeae;
+  --vp-c-gutter: #e2e2e3;
+}
+
+.dark {
+  --vp-c-border: #3c3f44;
+  --vp-c-divider: #2e2e32;
+  --vp-c-gutter: #000000;
 }
