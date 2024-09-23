@@ -4,6 +4,16 @@ export default defineConfig({
   base: '/',
   title: "Ke succ?",
   description: "Che succede in questi giorni a Como? Un catalogo curato dei momenti di incontro e formazione, a volte sconosciuti, a cui si può partecipare nella nostra città.",
+  head:[
+    [
+      'script', {
+      type: 'text/javascript',
+      src: 'https://cloud.umami.is/script.js',
+      'data-website-id': 'db01d286-cefc-4604-97ae-2ae6d17971d2',
+      async: '',
+      }
+      ]
+    ],
   cleanUrls: true,
   ignoreDeadLinks: true,
   lastUpdated: true,
