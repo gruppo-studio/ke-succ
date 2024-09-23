@@ -7,7 +7,7 @@ hero:
   text: "Che succede in questi giorni a Como?"
   tagline:  "Un catalogo curato dei momenti di incontro e formazione, a volte sconosciuti, a cui si può partecipare nella nostra città."
   image:
-    src: /mascotte kesucc.png
+    src: /disperati.png
   actions:
     - theme: brand
       text: Bè.. che succede?
