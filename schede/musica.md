@@ -1,14 +1,13 @@
 ---
-title: Ke succ?
-titleTemplate: Spettacoli
-description: Cinema, teatro e spettacoli
+titleTemplate: Musica (Schede)
+description: Schede dei soggetti che programmano momenti musicali a Como.
 head:
   - - meta
     - name: description
       content: hello
   - - meta
     - name: keywords
-      content: super duper SEO
+      content: eventi musicali a Como, musica a Como, concerti a Como
 ---
 
 # 🎵 Musica
@@ -16,6 +15,8 @@ head:
 ### Conservatorio
 
 📍 Via Cadorna 4, Como /  [mappa](https://en.mapy.cz/s/lucetonage) / [sito web](https://conservatoriocomo.it/)
+
+![foto facciata conservatorio](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Conservatorio_di_Como_-_facciata.jpg/384px-Conservatorio_di_Como_-_facciata.jpg){width=200px}
 
 ::: info
 Il conservatorio è un [ente universitario pubblico](https://it.wikipedia.org/wiki/Alta_formazione_artistica,_musicale_e_coreutica).
@@ -29,9 +30,9 @@ Ogni anno accademico il Conservatorio organizza un calendario di concerti; suona
 
 **Tutti i concerti sono gratuiti**; necessario prenotare: [online](https://conservatoriocomo.it/eventi/) oppure alla portineria entrando a destra.
 
-[Programma completo *Un anno in musica* (stagione 2023-24)](https://conservatoriocomo.it/unannoinmusica24/). Non interattivo
+- [Programma completo *Un anno in musica* (stagione 2023-24)](https://conservatoriocomo.it/unannoinmusica24/). Non interattivo
 
-[Pagina *Eventi* del sito](https://conservatoriocomo.it/eventi). Schede dei prossimi eventi; da qui si può prenotare.
+- [Pagina *Eventi* del sito](https://conservatoriocomo.it/eventi). Schede dei prossimi eventi; da qui si può prenotare.
 
 Il calendario è disponibile anche in formato cartaceo presso la portineria.
 
@@ -40,6 +41,10 @@ Il calendario è disponibile anche in formato cartaceo presso la portineria.
 ### Teatro sociale
 
 📍 Piazza Verdi, Como / [mappa](https://en.mapy.cz/s/konuducafo)
+
+![piazza Verdi, teatro Sociale, con albero](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Teatrosocialecomo.jpg/390px-Teatrosocialecomo.jpg){width=200px}
+
+> Facciata del teatro prima del taglio del cedro, 2008.
 
 ::: info
 Poco sociale, uno dei pochi in Europa di proprietà privata, il teatro è di proprietà della [Società dei palchettisti](https://saledelridotto.com/it/la-societa-palchettisti-del-teatro-sociale-di-como), un'associazione della borghesia comasca. L'appartenenza a quest'ultima è spesso consolidata col possesso di un palco del teatro: uno stambugio sopraelevato, dispositivo di voyeurismo ed esibizionismo assieme.
